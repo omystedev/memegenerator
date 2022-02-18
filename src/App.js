@@ -69,7 +69,7 @@ const onClickExportar = function(evento){
           <span>{linea2}</span>
 
           {/* Imagen del meme */}
-          <img src={"/img/" + imagen + ".jpg"} />
+          <img src={"/img/" + imagen + ".jpg"} alt="Imagen" />
       </div>
 
     </div>
